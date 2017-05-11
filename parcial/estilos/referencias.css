@@ -1,0 +1,7 @@
+/*REFERENCIAS POR PALABRAS CLAVE*/
+h1 {color: red;margin: 30px;padding: 30px}
+p {color:blue;}
+p:nth-child(2){color: green;}
+p {
+  border: red 5px solid;
+}

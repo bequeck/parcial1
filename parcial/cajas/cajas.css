@@ -1,0 +1,22 @@
+body{
+	margin: 100px 10px;
+	padding: 100px 50px;
+	border: 15px solid blue;
+	/*border-top: 10px solid blue;
+	border-right:10px solid yellow;
+	border-bottom: 10px solid green;
+	border-left: 10px solid black;*/
+	border-color: #DC143C green #FF00FF #2F4F4F;
+
+
+}
+h1 {
+	background: yellow;
+	border: 5px solid red;
+	margin: 20px;
+	padding: 50px;
+}
+
+span{
+	background: #dff0d8;
+}
